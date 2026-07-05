@@ -32,3 +32,9 @@ plt.savefig('rural_vs_urban.png')
 plt.close()
 
 print("Trend files saved.")
+
+
+
+Code output
+
+Trend files saved.
